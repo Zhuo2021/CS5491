@@ -1,0 +1,9 @@
+music21
+chromadb
+sentence-transformers
+huggingface-hub
+numpy
+pretty_midi
+scipy
+matplotlib
+openai
